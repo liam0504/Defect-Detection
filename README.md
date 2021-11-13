@@ -37,4 +37,7 @@ The download data file (aoi_data.zip) includes:
 
 ## Achievement
 
+Accuracy: 98.66%
+
+![image](https://github.com/liam0504/Defect-Detection/blob/main/Image/1636790981720.jpg)
 
