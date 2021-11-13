@@ -29,7 +29,7 @@ The download data file (aoi_data.zip) includes:
 
 1.	Download the training and test data from AOI website [link](https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27)
 
-2.	Run the sort.py to distribute the images into five files.
+2.	Run the sort.py to distribute the images into six files.
 
 3. Implement the train.py to train the model.
 
