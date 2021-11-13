@@ -8,7 +8,7 @@ Automated optical inspection (AOI) [1] is an automated visual inspection of prin
 
 After classification models of defect prediction are offered by researchers participating in the issue, the back-end of the system would process them in bathces regularly to calculate the score. Evaluations are conducted by calculating the corresponding accuracy rate of the actual value.
 
-![image](picture or gif url)
+![image](https://github.com/liam0504/Defect-Detection/blob/main/1636790981720.jpg)
 
 ## Goal
 參與AIdea網站的AOI自動光學檢測競賽
